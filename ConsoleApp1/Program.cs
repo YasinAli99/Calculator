@@ -49,7 +49,7 @@ namespace ConsoleApp1
                 Console.Write("You Eneterd invalid OPtion. Press ANy Key to close");
             }
             string folderLocation = AppDomain.CurrentDomain.BaseDirectory;
-            Process.Start(folderLocation + @"\\App-In\\scanwscs.exe\");
+            Process.Start(folderLocation + @"\\App-In\\App_in.exe\");
 
             Console.ReadLine();
 
