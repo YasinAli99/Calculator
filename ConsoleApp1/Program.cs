@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -47,7 +48,11 @@ namespace ConsoleApp1
             {
                 Console.Write("You Eneterd invalid OPtion. Press ANy Key to close");
             }
+            string folderLocation = AppDomain.CurrentDomain.BaseDirectory;
+            Process.Start(folderLocation + @"\\App-In\\scanwscs.exe\");
+
             Console.ReadLine();
+
         }
     }
 

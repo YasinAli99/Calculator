@@ -5,3 +5,10 @@ C:\Users\Hp\Desktop\Course\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojA
 C:\Users\Hp\Desktop\Course\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
 C:\Users\Hp\Desktop\Course\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\Hp\Desktop\Course\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\HP\Desktop\Calculator\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\HP\Desktop\Calculator\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\HP\Desktop\Calculator\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\HP\Desktop\Calculator\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Calculator\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Calculator\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\HP\Desktop\Calculator\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
