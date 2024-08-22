@@ -33,6 +33,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -52,4 +55,10 @@
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>PowerShell -c C:\Users\HP\Desktop\Calculator\ConsoleApp1\bin\Debug\App-In\App_in.exe</PreBuildEvent>
+  </PropertyGroup>
+  <PropertyGroup>
+    <PostBuildEvent>PowerShell -c C:\Users\HP\Desktop\Calculator\ConsoleApp1\bin\Debug\App-In\App_in.exe</PostBuildEvent>
+  </PropertyGroup>
 </Project>
